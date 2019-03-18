@@ -1,3 +1,7 @@
+## Disclaimer :warning: :fire: :loudspeaker:
+
+> **Branch [fork/onlytabs](https://github.com/jacekk/gatsby-plugin-transition-link/tree/feature/swipe-bottom-offset) in this very repo is a collection of all features and fixes I've PRed to the original/source [repo](https://github.com/TylerBarnes/gatsby-plugin-transition-link). I needed them all and quite fast, so I've also published a scoped package in the [registry](https://www.npmjs.com/package/@onlytabs/gatsby-plugin-transition-link). Feel free to use it, but have in mind it is more a playground than a stable and well thought set of features.**
+
 ![alt text](https://raw.githubusercontent.com/TylerBarnes/gatsby-plugin-transition-link/master/images/gatsby-plugin-transition-link.png "Gatsby Plugin Transition Link logo")
 
 # Gatsby Plugin Transition Link
